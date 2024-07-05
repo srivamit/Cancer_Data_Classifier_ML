@@ -7,10 +7,6 @@ This project demonstrates the use of logistic regression for classifying breast 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 The Breast Cancer Wisconsin dataset is used in this project. It contains features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. The features describe characteristics of the cell nuclei present in the image.
